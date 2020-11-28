@@ -18,3 +18,5 @@ import bpy
 import glob
 import os
 
+from .imagescaling import imagescaling
+from .imagecontours import imagecontours
