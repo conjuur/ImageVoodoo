@@ -137,4 +137,4 @@ Best-README-Template
 [linkedin-url]: https://www.linkedin.com/in/matt-myers-826a2b
 
 
-[product-screenshot]: images\lion_demo.jpg
+[product-screenshot]: images/lion_demo.jpg
