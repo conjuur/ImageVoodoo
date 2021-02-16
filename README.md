@@ -83,6 +83,7 @@ Blender Foundation -> Blender (version #) -> (version #) -> python -> lib -> sit
 ```
 
 #### Add-On Installation inside of Blender
+
 1. Download ZIP -> [Image Voodoo ZIP](https://github.com/conjuur/ImageVoodoo/archive/main.zip)
 2. Extract image-voodoo.py
 3. Open Blender session and navigate as below:
