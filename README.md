@@ -85,9 +85,13 @@ EDIT -> PREFERENCES -> ADD-ONS -> INSTALL
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Please visit the channel page listed below to watch the brief tutorial videos.
+<br />
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCqTtIrT0I4rDrRZL7wV1tzQ">
+    <img src="images\cla250.jpg" alt="car" width="415" height="223">
+  </a>
 
-[Conjuur Youtube Channel](https://www.youtube.com/channel/UCqTtIrT0I4rDrRZL7wV1tzQ)
+ - Image placement and scaling as shown above.
 
 
 <!-- ROADMAP -->
@@ -138,3 +142,4 @@ Best-README-Template
 
 
 [product-screenshot]: images/lion_demo.jpg
+[product-screenshot2]: images/cla250.jpg
