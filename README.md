@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ```
 3. Copy the site-packages from the environment into the Blender site-packages folder.
 
-#### Blender Installation
+#### Add-On Installation inside of Blender
 1. Download ZIP -> [Image Voodoo ZIP](https://github.com/conjuur/ImageVoodoo/archive/main.zip)
 2. Extract image-voodoo.py
 3. Open Blender session and navigate as below:
