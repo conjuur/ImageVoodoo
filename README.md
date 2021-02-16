@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/conjuur/ImageVoodoo">
-    <img src="images\logo_small.jpg" alt="Logo" width="120" height="120">
+    <img src="images/logo_small.jpg" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Image Voodoo</h3>
