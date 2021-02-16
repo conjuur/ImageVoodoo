@@ -99,7 +99,7 @@ EDIT -> PREFERENCES -> ADD-ONS -> INSTALL
 <br />
 <p align="center">
   <a href="https://www.youtube.com/channel/UCqTtIrT0I4rDrRZL7wV1tzQ">
-    <img src="images\cla250.jpg" alt="car" width="831" height="446">
+    <img src="images/image_voodoo_edges.jpg" alt="car" width="1531" height="885">
   </a>
 
  - Image placement and scaling as shown above.
