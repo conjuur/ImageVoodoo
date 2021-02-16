@@ -67,8 +67,8 @@ Please make sure Blender is installed.  If you do not have a current installatio
 
 Blender is required to run this software.  The link below will take you to the organization's home page.
 * [Blender](https://www.blender.org/)
-* Dependent libraries as designated in the requirements.txt file.
-
+* [OpenCV](https://pypi.org/project/opencv-python/)
+* [Pillow](https://pypi.org/project/Pillow/)
 
 ### Installation
 
