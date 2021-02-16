@@ -70,8 +70,19 @@ Blender is required to run this software.  The link below will take you to the o
 * [OpenCV](https://pypi.org/project/opencv-python/)
 * [Pillow](https://pypi.org/project/Pillow/)
 
-### Installation
+###  Installation
 
+1. Create a virtual environment.
+2. Activate the environment and install requirements.txt file.
+```sh
+pip install -r requirements.txt
+```
+3. Copy the site-packages from the environment into the Blender site-packages folder.
+```sh
+Blender Foundation -> Blender (version #) -> (version #) -> python -> lib -> site-packages
+```
+
+#### Add-On Installation inside of Blender
 1. Download ZIP -> [Image Voodoo ZIP](https://github.com/conjuur/ImageVoodoo/archive/main.zip)
 2. Extract image-voodoo.py
 3. Open Blender session and navigate as below:
@@ -80,7 +91,6 @@ EDIT -> PREFERENCES -> ADD-ONS -> INSTALL
 ```
 4. Select image-voodoo.py and enable it.
 5. Add-on will appear on right window bar (also activated by 'n').
-
 
 
 <!-- USAGE EXAMPLES -->
