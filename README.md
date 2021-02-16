@@ -103,6 +103,8 @@ EDIT -> PREFERENCES -> ADD-ONS -> INSTALL
   </a>
 
  - Image placement and scaling as shown above.
+ - Create Canny edge contours.
+ - Create and import pixels as a usable mesh.
 
 
 <!-- ROADMAP -->
