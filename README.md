@@ -67,9 +67,23 @@ Please make sure Blender is installed.  If you do not have a current installatio
 
 Blender is required to run this software.  The link below will take you to the organization's home page.
 * [Blender](https://www.blender.org/)
-
+* [OpenCV](https://pypi.org/project/opencv-python/)
+* [Pillow](https://pypi.org/project/Pillow/)
 
 ###  Installation
+
+1. Create a virtual environment.
+2. Activate the environment and install requirements.txt file.
+```sh
+pip install -r requirements.txt
+```
+3. Copy the site-packages from the environment into the Blender site-packages folder.
+```sh
+Blender Foundation -> Blender (version #) -> (version #) -> python -> lib -> site-packages
+```
+
+#### Add-On Installation inside of Blender
+
 1. Download ZIP -> [Image Voodoo ZIP](https://github.com/conjuur/ImageVoodoo/archive/main.zip)
 2. Extract image-voodoo.py
 3. Open Blender session and navigate as below:
@@ -80,17 +94,18 @@ EDIT -> PREFERENCES -> ADD-ONS -> INSTALL
 5. Add-on will appear on right window bar (also activated by 'n').
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 <br />
 <p align="center">
   <a href="https://www.youtube.com/channel/UCqTtIrT0I4rDrRZL7wV1tzQ">
-    <img src="images/cla250.jpg" alt="car" width="831" height="446">
+    <img src="images/image_voodoo_edges.jpg" alt="car" width="765" height="440">
   </a>
 
  - Image placement and scaling as shown above.
+ - Create Canny edge contours.
+ - Create and import pixels as a usable mesh.
 
 
 <!-- ROADMAP -->
