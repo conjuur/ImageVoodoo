@@ -77,6 +77,9 @@ Blender is required to run this software.  The link below will take you to the o
 pip install -r requirements.txt
 ```
 3. Copy the site-packages from the environment into the Blender site-packages folder.
+```sh
+Blender Foundation -> Blender (version #) -> (version #) -> python -> lib -> site-packages
+```
 
 #### Add-On Installation inside of Blender
 1. Download ZIP -> [Image Voodoo ZIP](https://github.com/conjuur/ImageVoodoo/archive/main.zip)
