@@ -69,8 +69,16 @@ Blender is required to run this software.  The link below will take you to the o
 * [Blender](https://www.blender.org/)
 
 
-### Installation
+###  Installation
 
+1. Create a virtual environment.
+2. Activate the environment and install requirements.txt file.
+```sh
+pip install -r requirements.txt
+```
+3. Copy the site-packages from the environment into the Blender site-packages folder.
+
+#### Blender Installation
 1. Download ZIP -> [Image Voodoo ZIP](https://github.com/conjuur/ImageVoodoo/archive/main.zip)
 2. Extract image-voodoo.py
 3. Open Blender session and navigate as below:
