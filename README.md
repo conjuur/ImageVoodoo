@@ -38,7 +38,7 @@
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+  * [Installation](#installation main)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
