@@ -70,7 +70,11 @@ Blender is required to run this software.  The link below will take you to the o
 * [OpenCV](https://pypi.org/project/opencv-python/)
 * [Pillow](https://pypi.org/project/Pillow/)
 
-###  Installation
+### Installation Main
+1.  Be sure to run Blender as Administrator.
+2.  Dependent packages should install, if they do not please see alternative below.
+
+###  Installation Alternative
 
 1. Create a virtual environment.
 2. Activate the environment and install requirements.txt file.
