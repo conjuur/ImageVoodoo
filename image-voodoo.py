@@ -26,12 +26,32 @@ bl_info = {
 }
 
 import bpy
+from subprocess import check_call
 import os
 from os import listdir
-import cv2 as cv
-import numpy as np
+
+try:
+    import cv2 as cv
+except ImportError:
+    pybin = bpy.app.binary_path_python
+    check_call([pybin,'-m', 'pip', 'install', 'opencv-python'])
+    import cv2 as cv
+
+try:
+    import numpy as np
+except ImportError:
+    pybin = bpy.app.binary_path_python
+    check_call([pybin, '-m', 'pip', 'install', 'numpy'])
+    import numpy as np
+
+try:
+    from PIL import Image
+except ImportError:
+    pybin = bpy.app.binary_path_python
+    check_call([pybin, '-m', 'pip', 'install', 'Pillow'])
+    from PIL import Image
+
 import random as rng
-from PIL import Image
 import math
 import csv
 from bpy_extras.io_utils import ImportHelper
